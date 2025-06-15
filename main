@@ -21,7 +21,7 @@
       height: 100%;
       font-family: 'Inter', sans-serif;
       color: #f0f0f0;
-      background: url('https://blog.larplasticos.com.br/wp-content/uploads/2020/08/coleta-seletiva-cores.png') no-repeat center center fixed;
+      background: url(fundo.png) center center fixed;
       background-size: cover;
       background-attachment: fixed;
       overflow-x: hidden;
